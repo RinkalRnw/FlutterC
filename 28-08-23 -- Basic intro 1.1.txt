@@ -1,0 +1,18 @@
+28-08-23 -- Basic intro 1.1
+29-08-23 -- 1.2
+31-08-23 -- 2.1 & 2.2
+
+
+
+
+
+Constant - 
+1)const keyword
+2)#define -preprocessor directives
+
+
+Static - fixed value - 
+Dynamic - Change 
+
+
+
