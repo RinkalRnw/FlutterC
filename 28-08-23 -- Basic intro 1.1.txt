@@ -12,8 +12,10 @@ Constant -
 2)#define -preprocessor directives
 
 
-Static - fixed value - 
+Static - fixed value
 Dynamic - Change 
 
+Github desktop
+Chrom setup
 
 
